@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on My New Hugo Site</title>
+    <link>/acme/viajes/</link>
+    <description>Recent content in Viajes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:24 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirineo</title>
+      <link>/acme/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:24 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+      <description>PIRINEO Viaje al pirineo
+Pirineos es mágico ya de por sí, pero aún, hay detalles que pueden hacer de nuestro viaje, más místico y embaucador, quédate y descubre las leyendas del Pirineo.
+Aquí no vamos a hablar de ningún lugar ni sitio en concreto, hoy nuestro tema va de leer; ¿De leer?; Si, de leer. Parte del misticismo que las montañas de Pirineos alberga, se encuentra en sus mitos y leyendas, que con el paso del tiempo se han ido transmitiendo de unos a otros.</description>
+    </item>
+    
+  </channel>
+</rss>

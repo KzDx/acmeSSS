@@ -7,7 +7,7 @@ draft: false
 
 ## PIRINEO
 
-Viaje al pirineo
+>Viaje al pirineo
 
 Pirineos es mágico ya de por sí, pero aún, hay detalles que pueden hacer de nuestro viaje, más místico y embaucador, quédate y descubre las leyendas del Pirineo.
 
